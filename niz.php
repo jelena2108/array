@@ -7,7 +7,10 @@ $arr[3]=array(4,"Ema","Cruise","ema@gmail.com");
   
 ?>
 <html>
-    <head></head>
+    <head>
+      <title>Table-array</title>
+      <meta charset="UTF-8">
+    </head>
     <body>
         <table style="border:1px solid black;width:400px">
             
